@@ -1,7 +1,7 @@
 <template>
     <div>
         <PageHeader />
-        <MovieMatch /> 
+        <NuxtPage /> 
         <PageFooter />
     </div>
 </template>

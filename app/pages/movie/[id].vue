@@ -4,7 +4,6 @@
 
 <template>
     <div>
-        <Search />
-        <Results />
+        imdb view
     </div>
 </template>
