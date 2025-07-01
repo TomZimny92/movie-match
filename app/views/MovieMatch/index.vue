@@ -4,8 +4,7 @@
 
 <template>
     <div>
-        <Header />
-        <slot />
-        <Footer />
+        <Search />
+        <Results />
     </div>
 </template>
